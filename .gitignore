@@ -5,3 +5,9 @@ models/
 __pycache__/
 .ipynb_checkpoints/
 *.db
+*.egg-info/
+.DS_Store
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+mlruns/

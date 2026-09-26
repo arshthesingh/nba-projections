@@ -1,9 +1,0 @@
-README.md
-pyproject.toml
-nba_projections.egg-info/PKG-INFO
-nba_projections.egg-info/SOURCES.txt
-nba_projections.egg-info/dependency_links.txt
-nba_projections.egg-info/top_level.txt
-src/__init__.py
-src/config.py
-src/db.py
